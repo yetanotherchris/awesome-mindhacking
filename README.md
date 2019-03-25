@@ -11,13 +11,16 @@ Using the theme of the [awesome](https://github.com/topics/awesome) lists and to
 1. [Mindhacking by John Hargrave](https://legacy.gitbook.com/book/jhargrave/mind-hacking/details) - the book covers many topics including mindfulness.
 2. [The Brain at work by David Rock](https://www.amazon.co.uk/Your-Brain-Work-Strategies-Distraction/dp/0061771295) - working hacks and neuroscience research. 
 3. [Your Memory by Kenneth Higbee](https://www.amazon.co.uk/Your-Brain-Work-Strategies-Distraction/dp/0061771295) - essential reading if you're studying and learning something new.
+4. [Teach Yourself CBT](https://www.amazon.co.uk/Cognitive-Behavioural-Therapy-Evidence-based-goal-oriented/dp/1473607922/) - a lot of the Mindhacking book and technique borrows techniques from CBT, but packages the CBT triangle into a slightly more evolved METAL format. This book is probably the easiest and most accessible CBT book.
+5. [Introduction to Neuro Linguistic Programing (NLP) Udemy, free](https://www.udemy.com/neuro-linguistic-programming-nlp-course-introduction-achology/) - The Mindhacking book has some techniques that NLP tutors might recognise. This video course is a good intro to NLP and is enterainting throughout.
 
-## Meditation
+## Mindfulness and Meditation
 
 1. [You're It by Alan Watts](https://www.audible.co.uk/pd/Youre-It-Audiobook/B004F4JTPE) - focused on philosophy of mind and some meditation.
 2. [The art of Presence by Eckhart Tolle](https://www.audible.co.uk/pd/The-Art-of-Presence-Audiobook/B004F4LAN8) - similar to Alan Watts he focuses on mindfulness. All his work is good and worth listening to.
 3. [Headspace](http://www.headspace.com) - still the best meditation app in my view, and worth the subscription.
 4. [Mindfulness for Beginners by Jon Kabat-Zinn](https://www.amazon.co.uk/Mindfulness-Beginners-Jon-Kabat-Zinn/dp/1591794641) - light hearted look at mindfulness similar to Ekhart Tolle's audiobooks.
+5. [https://www.amazon.co.uk/Mindfulness-practical-guide-finding-frantic/dp/074995308X/](Mindfulness a Practical Guide by Mark Williams) is a very gentle mindfulness book and course, which is as the author explains is used with patients at a medical center in the UK.
 
 ## Nutrition
 
@@ -66,3 +69,8 @@ As the Mindhacking book described, exercise is important to build into your dail
 6. [12 rules for Life by Jordan Peterson](https://www.amazon.co.uk/12-Rules-Life-Antidote-Chaos-ebook/dp/B078C6C7QS) - he's infamous for his political views but is also a clinical pyschologist with this book of advice.
 7. [Self Authoring also by Jordan Peterson](https://www.selfauthoring.com/) - an accompanying website to the above.
 8. [Dr Phil on Joe Rogan](https://www.youtube.com/watch?v=65epASHLblo) - a good collection of tips from Dr Phil.
+9. [Tricks of the Mind](https://www.amazon.co.uk/Cognitive-Behavioural-Therapy-Evidence-based-goal-oriented/dp/1473607922/) - Derren Brown has a few chapters in his book that talk about the techniques he adopted for changing his thinking patterns.
+
+## Journaling
+
+1. [A year in Pixels (Android)](https://play.google.com/store/apps/details?id=ar.teovogel.yip&hl=en) - as the Mindhacking book repeats, writing down your thoughts or moods is a proven technique for making your happier. This app gets you to pick an face and colour that represents your day and plots them as pixels.
