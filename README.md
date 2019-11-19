@@ -21,7 +21,7 @@ Using the theme of the [awesome](https://github.com/topics/awesome) lists and to
 1. [Headspace](http://www.headspace.com) - still the best meditation app in my view, and worth the subscription.
 1. [Mindfulness for Beginners by Jon Kabat-Zinn](https://www.amazon.co.uk/Mindfulness-Beginners-Jon-Kabat-Zinn/dp/1591794641) - light hearted look at mindfulness similar to Ekhart Tolle's audiobooks.
 1. [Mindfulness a Practical Guide by Mark Williams](https://www.amazon.co.uk/Mindfulness-practical-guide-finding-frantic/dp/074995308X/) is a very gentle mindfulness book and course, which is as the author explains is used with patients at a medical center in the UK.
-1. [Awareness by Anthony De Mello](https://books.google.co.uk/books/about/Awareness.html?id=w1nac6qAoO8C&redir_esc=y) is a great book similar in vein to Alan Watt's and Eckhart Tolle, if slightly Guru-ish in places.
+1. [Awareness by Anthony De Mello](https://books.google.co.uk/books/about/Awareness.html?id=w1nac6qAoO8C&redir_esc=y) is a great book  in a similar vein to Alan Watts and Eckhart Tolle, if slightly Guru-ish in places.
 
 ## Nutrition
 
